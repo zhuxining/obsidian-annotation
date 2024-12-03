@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-comment",
+	"name": "obsidian-comment",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "This is a plugin for obsidian to quote and comment on document content ",
+	"author": "zhuxining",
+	"authorUrl": "https://github.com/zhuxining",
+	"isDesktopOnly": true
 }
